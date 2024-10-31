@@ -1,2 +1,3 @@
 # Python-assingment-part-2
 Python Assingment (Modules and RegEx , File handling, Exception Handling, OOPs , OOPs- Banking  , Numpy, Pandas, Matplotlib, Seaborn )
+"Completed Python assignments focused on advanced concepts, including Modules and Regular Expressions, File Handling, Exception Handling, and Object-Oriented Programming (OOP) with practical applications like a Banking system. Gained hands-on experience with data analysis libraries such as NumPy and Pandas, and data visualization tools like Matplotlib and Seaborn. This work strengthened my programming capabilities in handling real-world tasks and data manipulation."
